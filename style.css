@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    font-family: "Playwrite US Modern", cursive;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: white !important;
+}
+
+.nav-item {
+    padding: 0 7px;
+}
+
+.platforms {
+    width: 30px;
+    height: auto;
+}
+
+.slider1,
+.slider2,
+.accordion {
+    padding: 50px 70px;
+    display: block;
+}
+
+.accordion-img {
+    width: 40%;
+    height: auto;
+}
